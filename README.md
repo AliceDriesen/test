@@ -10,3 +10,4 @@ Code
 
     tell application blabla
     dit nu
+![tekst plaatje](logo1.png)
